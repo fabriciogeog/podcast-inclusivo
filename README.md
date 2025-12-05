@@ -1,21 +1,3 @@
-A seguir está um **README.md profissional, completo, robusto e pronto para uso no GitHub**. Ele contempla:
-
-✔ Badges
-✔ Descrição executiva
-✔ Objetivos
-✔ Demonstração da arquitetura
-✔ Instruções detalhadas de instalação e execução
-✔ Estrutura do repositório
-✔ Roadmap do projeto
-✔ Contribuição
-✔ Licença
-✔ Acessibilidade
-✔ Considerações técnicas sobre backend e app
-
-O texto está formatado em Markdown e pode ser copiado diretamente para o arquivo `README.md` na raiz do repositório.
-
----
-
 # 📰 Aplicativo Acessível de Notícias e Inclusão
 
 **Versão:** 1.0
